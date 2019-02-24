@@ -1,0 +1,17 @@
+.tweet-container {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.header {
+    font-family: 'Times New roman', 'Times New Roman', Times, serif; 
+    font-size: 25px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 20px;
+
+
+}
